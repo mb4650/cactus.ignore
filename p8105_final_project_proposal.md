@@ -18,6 +18,12 @@ there is an association between COVID-19 cases and climate.
 
 ## The intended final products
 
+Our intended final products will be a website with a dashboard, along
+with a report stating our findings. Our dashboard will contain summary
+visualizations. We will also do an interactive map for statewide data.
+The website will include a screencast walking our audience through the
+process that we took to complete the project.
+
 ## The anticipated data sources
 
 ## The planned analyses / visualizations / coding challenges

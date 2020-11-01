@@ -26,6 +26,8 @@ process that we took to complete the project.
 
 ## The anticipated data sources
 
+We are planning to use the CDC dataset for the statewide daily COVID-19 cases, and to pull the climate data (temperature, precipitation, etc.) for all 50 states from the NOAA website.
+
 ## The planned analyses / visualizations / coding challenges
 
 ## The planned timeline

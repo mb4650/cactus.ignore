@@ -3,7 +3,7 @@ Final Project Proposal
 Maya Bunyan, Lunbei Hu, Michelle Lui, Ling Yi, Gauri Bhatkhande, Pallavi
 Krishnamurthy
 
-## The group members (names and UNIs)
+## The group members (Names and UNIs)
 
 Maya Bunyan (mb4650) Lunbei Hu (lh3000) Michelle Lui (mll2209) Ling Yi
 (ly2496) Gauri Bhatkhande (gb2865) Pallavi Krishnamurthy (pk2646)
@@ -42,3 +42,9 @@ Issues include combining the climate dataset for each state and
 accuractly combining the climate and covid case dataset.
 
 ## The planned timeline
+
+November 7th: Proposal November 13th: Review November 20: Import and
+clean the data November 21-25: Start working and finish the analysis
+November 26 - Dec 2: Start working on and finish visualisations and
+create the website December 3 - 5: Review and go to office hours to make
+sure everything is in order.

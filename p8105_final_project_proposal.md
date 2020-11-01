@@ -32,4 +32,8 @@ for all 50 states from the NOAA website.
 
 ## The planned analyses / visualizations / coding challenges
 
+We plan to plot the results of our analysis to see trends. Analysis will include regression models of temperature (assess linearity to determine linear or logistic regression) and covid cases. Preliminary plots might include histograms, line graphs, tables, etc. Interactive graphics will be included. 
+
+Issues include combining the climate dataset for each state and accuractly combining the climate and covid case dataset. 
+
 ## The planned timeline

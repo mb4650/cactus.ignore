@@ -1,0 +1,6 @@
+---
+title: "Final Project Proposal"
+author: Maya Bunyan, Lunbei Hu, Michelle Lui, Ling Yi, Gauri Bhatkhande, Pallavi Krishnamurthy
+output: github_document
+---
+

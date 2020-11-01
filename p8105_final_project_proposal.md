@@ -41,7 +41,7 @@ include histograms, line graphs, tables, etc. Interactive graphics will
 be included.
 
 Issues include combining the climate dataset for each state and
-accuractly combining the climate and covid case dataset.
+accurately combining the climate and covid case dataset.
 
 ## The planned timeline
 

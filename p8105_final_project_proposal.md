@@ -10,6 +10,8 @@ Maya Bunyan (mb4650) Lunbei Hu (lh3000) Michelle Lui (mll2209) Ling Yi
 
 ## The tentative project title
 
+CACTUS - Covid-19 and Climate trends in the US.
+
 ## The motivation for this project
 
 We want to understand more about the trends in COVID-19 cases by state

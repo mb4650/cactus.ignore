@@ -15,6 +15,7 @@ Pallavi Krishnamurthy (pk2646)
 
 ## The tentative project title
 
+CACTUS - Covid-19 and Climate trends in the US. 
 
 ## The motivation for this project
 
